@@ -112,3 +112,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*.pdf
+*.py
+*.DS_Store
+practice/1-basics/16-practical_exercise/model.pth
+practice/1-basics/16-practical_exercise/predict.ipynb
