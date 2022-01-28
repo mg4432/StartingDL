@@ -117,3 +117,10 @@ dmypy.json
 *.DS_Store
 practice/1-basics/16-practical_exercise/model.pth
 practice/1-basics/16-practical_exercise/predict.ipynb
+*.gz
+*.pt
+data/MNIST/raw/t10k-images-idx3-ubyte
+data/MNIST/raw/t10k-labels-idx1-ubyte
+data/MNIST/raw/train-images-idx3-ubyte
+data/MNIST/raw/train-labels-idx1-ubyte
+practice/14-07-classification.ipynb
