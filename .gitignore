@@ -124,3 +124,6 @@ data/MNIST/raw/t10k-labels-idx1-ubyte
 data/MNIST/raw/train-images-idx3-ubyte
 data/MNIST/raw/train-labels-idx1-ubyte
 practice/14-07-classification.ipynb
+16-practical_exercise/models/model.bs-512.n_epochs-15.n_layers-5.pth
+16-practical_exercise/models/model.pth
+16-practical_exercise/predict.ipynb
